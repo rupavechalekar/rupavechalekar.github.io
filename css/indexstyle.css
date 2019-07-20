@@ -82,7 +82,6 @@ html {
   height: auto;
   text-align: center;
   padding-top: 50px;
-  margin-bottom: 50px;
 }
 
 .image-cropper {
@@ -138,4 +137,17 @@ html {
     padding-bottom: 10px;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
+}
+
+.credits {
+  height: auto;
+  background-color: #fff6e2;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.credits h2 {
+  padding-top: 15px;
+  font-size: 120%;
+  color: #3f3f3f;
 }
